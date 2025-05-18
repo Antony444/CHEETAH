@@ -18,3 +18,27 @@ Click the "Toggle Responsive Design Mode" icon (📱) in the DevTools toolbar or
 Select a mobile device or set a custom resolution.
 
 Refresh the page if needed.
+
+Some photos of the UI:
+Home Page:
+
+![image](https://github.com/user-attachments/assets/a8a1e68d-c6c4-436a-b5b5-486370865538)
+![image](https://github.com/user-attachments/assets/fcee7495-ca9a-44e9-999d-4107f49fa7e1)
+
+One of the pages UI:
+
+![image](https://github.com/user-attachments/assets/878696b9-2b30-47dc-863e-ef42c7941f74)
+
+Another Page UI:
+
+![image](https://github.com/user-attachments/assets/5fc88ac3-2089-4eac-be8a-92f33493b51f)
+
+Another Page UI:
+
+![image](https://github.com/user-attachments/assets/dad601a6-2ecf-43e3-a42c-def003cb26c2)
+
+Another Page UI:
+
+
+
+
